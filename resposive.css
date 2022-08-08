@@ -1,0 +1,22 @@
+@media screen and (max-width: 620px) {
+  input {
+    width: 70%;
+  }
+
+  .delete {
+    font-size: 15px;
+    padding: 8px 16px;
+  }
+
+  #task {
+
+    padding: 5px 109px;
+    
+    
+
+    font-size: 21px;
+    width: 70%;
+    border: 1px solid white;
+    margin-right: 24px;
+}
+}
